@@ -150,7 +150,7 @@ Connectivity : Clean ✅
 Supply Voltage : 0.9V
 ⚠ Power net connection warnings observed (requires globalNetConnect refinement)
 
-![Uploading image.png…]()
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9ea043f4-fc25-4003-ba78-24d4208c397c" />
 
 
 🧪 Fault Coverage
