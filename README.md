@@ -24,9 +24,9 @@ This project implements a **Fault-Tolerant Arithmetic Logic Unit (ALU)** in Syst
 - FPGA/ASIC research implementations  
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e8787a6-bbf7-4b03-8904-6c3337e5eac5" />
 
 
-![gds_diagram](https://github.com/user-attachments/assets/5c6b9814-bf1e-4e71-aea1-27a68fe0a3e3)
 
 ---
 
@@ -149,9 +149,8 @@ Connectivity : Clean ✅
 Supply Voltage : 0.9V
 ⚠ Power net connection warnings observed (requires globalNetConnect refinement)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1b09e07e-c886-4b31-86c0-03c3a013c851" width="800"/>
-</p>
+![gds_diagram](https://github.com/user-attachments/assets/bb4857d4-26c9-45a3-8733-5c1fdfa41c6f)
+
 
 🧪 Fault Coverage
 Parity → detects bit-level errors
